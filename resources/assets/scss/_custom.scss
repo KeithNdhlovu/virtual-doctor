@@ -1,0 +1,30 @@
+$color-primary-dark: #ff7903;
+$color-primary-light: #ffa85c;
+
+.welcome-page {
+    max-width: 90% !important;
+    background: $color-primary-dark;
+}
+
+.landing-card {
+    background: $color-primary-light;
+}
+
+.content-container {
+    min-height: 250px
+}
+
+.feedback-page {
+    background: $color-primary-light;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.sweet-alert button {
+    background-color: $color-primary-dark !important;
+}
+
+.form-group.form-line {
+    border-bottom: 1px solid #ddd !important;
+}
