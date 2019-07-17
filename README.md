@@ -49,8 +49,11 @@
 
 |Email|Password|Access|
 |:------------|:------------|:------------|
-|user@user.com|password|User Access|
-|admin@admin.com|password|Admin Access|
+|doctor-1@virtualdoctor.com|password|Doctor Access|
+|admin@virtualdoctor.com|password|Admin Access|
+
+# For more users, use the admin account to create however many you would like, with the roles that you need
+
 
 ### Environment File
 
